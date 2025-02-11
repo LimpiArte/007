@@ -7,7 +7,7 @@
             margin: 0;
             padding: 20px;
             color: #2c3e50;
-            background-image: url('pro.lipieza.fondo-1.jpg');
+            background-image: url 'pro.lipieza.fondo-1.jpg';
             background-repeat: repeat; /* Asegura que la imagen se repita */
             background-size: cover; /* Ajusta el tamaño de la imagen para cubrir el fondo */
         }
