@@ -5,8 +5,9 @@
             font-family: 'Arial', sans-serif;
             margin: 0;
             padding: 20px;
-            background-image: url('pro.lipieza.fondo-1.jpg');
             color: #2c3e50;
+            background-image: url('pro.lipieza.fondo-1.jpg');
+            
         }
 
         header {
